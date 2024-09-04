@@ -17,7 +17,7 @@
     |________________________________|| 
 
 Diego Alexander Ruiz Mora - Universidad Nacional de Colombia
-Eduard Santiago Ramirez - Universidad Nacional de Colombia
+Eduard Santiago Ramirez Hernandez- Universidad Nacional de Colombia
 Programación de Computadores
 
 El proyecto fue recreer el famoso juego de mesa parques en Python, para esto decidimos hacerlo mediante lo aprendido en el curso, principalmente la sección de estructura de Datos y funciones, la idea principal fue recreear el tablero de parques usando una matriz en dos dimensiones, y programar el movimiento de las fichas en esta matriz de dos dimensiones.
