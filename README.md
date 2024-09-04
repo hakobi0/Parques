@@ -1,6 +1,5 @@
 # Parques    
 
-COVER_ART = """
               _________________________________
              /( ) ( )  ____________ ( ) ( )   /|
             /( )\\( )\\ / __  ____  /( )\\( )\\  //
@@ -16,7 +15,6 @@ COVER_ART = """
   / /_\\ /_\\ /___________/  /_\\ /_\\ //
  /________________________________//
 |________________________________|| 
-"""
 
 Diego Alexander Ruiz Mora - Universidad Nacional de Colombia
 Eduard Santiago Ramirez - Universidad Nacional de Colombia
